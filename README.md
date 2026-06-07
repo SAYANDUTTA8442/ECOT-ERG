@@ -296,7 +296,7 @@ Three failure mode categories identified in ECOT-T5:
 ```bibtex
 @article{ecot-erg-2026,
   title   = {Towards Causally Faithful Empathetic Dialogue Generation via Structured Appraisal Reasoning},
-  author  = {Gupta, Srishti and Sarkar, Ayushman and Dutta, Sayan and Vishwakarma, Shashank and Raj, Rishikesh and Jana, Arghya and Teja, Nagandla Tarun},
+  author={Srishti Gupta and Sayan Dutta  and Ayushman Sarkar and Shashank Vishwakarma and Rishikesh Raj and Arghya Jana and Nagandla Tarun Teja},
   journal = {ACL ARR 2026 Submission},
   year    = {2026},
   note    = {Under Review. Preferred Venue: EMNLP}
